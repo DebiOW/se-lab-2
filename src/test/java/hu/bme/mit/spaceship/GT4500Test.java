@@ -40,7 +40,7 @@ class GT4500Test {
   @Test
   void fireTorpedo_Single_Success(){
     // Arrange
-
+    
     // Act
     boolean result = ship.fireTorpedo(FiringMode.SINGLE);
 
